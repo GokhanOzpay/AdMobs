@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Kablosuz Kulaklık",
+    "aciklama": "Gürültü engelleyici özellikli, 20 saat pil ömürlü Bluetooth kulaklık.",
+    "fiyat": "1.250 TL",
+    "resim": "https://example.com"
+  },
+  {
+    "id": 2,
+    "title": "Akıllı Saat",
+    "aciklama": "Su geçirmez, nabız ölçer ve uyku takibi yapan şık akıllı saat.",
+    "fiyat": "2.100 TL",
+    "resim": "https://example.com"
+  },
+  {
+    "id": 3,
+    "title": "Mekanik Klavye",
+    "aciklama": "RGB aydınlatmalı, Blue Switch mekanik oyuncu klavyesi.",
+    "fiyat": "850 TL",
+    "resim": "https://example.com"
+  }
+]
