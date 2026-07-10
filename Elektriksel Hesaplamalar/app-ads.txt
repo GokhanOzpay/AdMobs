@@ -21,3 +21,4 @@ improvedigital.com, 1934, RESELLER
 33across.com, 0010b00001siQHqAAM, RESELLER, bbea06d9c4d2853c
 playdigo.com, 1970, RESELLER, 92011346d63d3c30
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+google.com, pub-3551302767996407, DIRECT, f08c47fec0942fa0
